@@ -1,0 +1,30 @@
+{
+    "__comment": "This is just a placeholder for a app im working on.",
+    "mods": [
+        {
+            "name": "Super Speed Mod",
+            "description": "Increases player speed significantly.",
+            "version": "1.0.0"
+        },
+        {
+            "name": "Night Vision Mod",
+            "description": "Gives the player night vision capabilities.",
+            "version": "1.2.1"
+        },
+        {
+            "name": "Infinite Health Mod",
+            "description": "Grants the player infinite health.",
+            "version": "2.0.0"
+        },
+        {
+            "name": "Gravity Defier Mod",
+            "description": "Allows the player to defy gravity.",
+            "version": "0.9.5"
+        },
+        {
+            "name": "Speedrun Timer",
+            "description": "Tracks your time during speedruns.",
+            "version": "1.1.3"
+        }
+    ]
+}
